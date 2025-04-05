@@ -6,7 +6,8 @@ The dataset contains physicochemical and sensory data for red and white wines fr
 - [Python notebook – Red wine data cleaning](02_data_cleaning_wine_Python.ipynb)
 
 Data source:  
-Originally published by the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/186/wine+quality)
+The data is based on the Wine Quality datasets from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/186/wine+quality)
+A local copy is included here for ease of use.
 
 ---
 
