@@ -52,7 +52,7 @@ This project marks an important step in my transition into the data analytics fi
 
 ## What I Learned
 
-- How to detect non-obvious import problems using visual summaries  
+- How to detect non-obvious important problems using visual summaries  
 - The importance of **locale-specific parsing** in European datasets  
 - How to clearly document each cleaning step for reproducibility  
 - The value of **separating dataset analysis** before merging insights  
