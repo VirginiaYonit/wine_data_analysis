@@ -56,7 +56,8 @@ This project marks an important step in my transition into the data analytics fi
 - The importance of **local-specific parsing** in European datasets  
 - How to clearly document each cleaning step for reproducibility  
 - The value of **separating dataset analysis** before merging insights  
-- Most importantly:  
+- Most importantly:
+  
   > **Planning the structure of a project before writing any code is essential.**  
   I initially approached the Python notebook “by instinct”, which led to fragmented results and time-consuming fixes.  
   In contrast, the R notebook was designed methodically from the start, yielding a cleaner, faster, and more readable process.  
@@ -89,10 +90,9 @@ I’m a 53-year-old career-changer with 25 years of experience in **air transpor
 Today, I work with **Python and R**, integrating data analysis with **domain awareness**, **legal context**, and **user-focused storytelling**.
 
 I hold a diploma in Interior Design and bring with me a deep sense of structure, system logic, and clarity in presentation.  
-I’m currently exploring **Business Intelligence** to better understand how data supports decision-making — but my mission remains the same:  
-to deliver **meaningful insights** with **integrity**, **clarity**, and **impact**.
+I’m currently exploring **Business Intelligence** to better understand how data supports decision-making — but my mission remains the same:  to deliver **meaningful insights** with **integrity**, **clarity**, and **impact**.
 
-📧 virginiayonit@gmail.com
+For questions or collaboration, feel free to connect via [LinkedIn](https://www.linkedin.com/in/virginia-levy-abulafia/).
 
 ---
 
@@ -113,6 +113,6 @@ to deliver **meaningful insights** with **integrity**, **clarity**, and **impact
 
 ## Project Status
 
-- ✔ Completed: data cleaning, outlier detection, regulatory validation  
+- Completed: data cleaning, outlier detection, regulatory validation  
 - In Progress: exploratory modeling & dashboard development
 
