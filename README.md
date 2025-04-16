@@ -86,11 +86,11 @@ The repository includes clean CSV files for:
 
 ## About the Author
 
-I’m a 53-year-old career-changer with 25 years of experience in **air transportation** — a sector that taught me precision, safety, and how to operate in highly regulated environments.  
-Today, I work with **Python and R**, integrating data analysis with **domain awareness**, **legal context**, and **user-focused storytelling**.
+II’m a career-changer with 23 years in air transportation, where I learned to thrive under regulation, prioritize safety, and stay detail-focused.
+Now working with *Python* and *R*, I apply data analysis to real-world contexts — combining domain expertise, legal awareness, and clear, user-driven insights.
 
-I hold a diploma in Interior Design and bring with me a deep sense of structure, system logic, and clarity in presentation.  
-I’m currently exploring **Business Intelligence** to better understand how data supports decision-making — but my mission remains the same:  to deliver **meaningful insights** with **integrity**, **clarity**, and **impact**.
+With a design background and a focus on structure, I’m currently expanding into Business Intelligence to better support data-informed decisions.
+My goal: deliver insights that are not just accurate, but actionable.
 
 For questions or collaboration, feel free to connect via [LinkedIn](https://www.linkedin.com/in/virginia-levy-abulafia/).
 
