@@ -86,7 +86,7 @@ The repository includes clean CSV files for:
 
 ## About the Author
 
-II’m a career-changer with 23 years in air transportation, where I learned to thrive under regulation, prioritize safety, and stay detail-focused.
+I’m a career-changer with 23 years in air transportation, where I learned to thrive under regulation, prioritize safety, and stay detail-focused.
 Now working with *Python* and *R*, I apply data analysis to real-world contexts — combining domain expertise, legal awareness, and clear, user-driven insights.
 
 With a design background and a focus on structure, I’m currently expanding into Business Intelligence to better support data-informed decisions.
